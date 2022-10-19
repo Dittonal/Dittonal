@@ -1,11 +1,19 @@
 ### Hi there 👋
 
+<br />
+
+I'm a self-taught FrontEnd developer from Cina 🇨🇳
+
+**About me**
+
+- 💼 FrontEnd Engineer and Giser
+
+- ❤️ I love writing Python
+
+- 💬 Ask me about anything [here](https://github.com/Dittonal/Dittonal/issues)
 
 
 
-
-[![Dittonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dittonal)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dittonal)](https://github.com/anuraghazra/github-readme-stats)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dittonal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dittonal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dittonal&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
