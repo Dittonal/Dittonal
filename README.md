@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught FrontEnd developer from Cina 🇨🇳
+I'm a self-taught FrontEnd developer from China 🇨🇳
 
 **About me**
 
